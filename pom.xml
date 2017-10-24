@@ -5,7 +5,7 @@
 	<artifactId>web-test</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>web-test02 Maven Webapp</name>
+	<name>web-test Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
@@ -25,6 +25,6 @@
 
 	</dependencies>
 	<build>
-		<finalName>web-test02</finalName>
+		<finalName>web-test</finalName>
 	</build>
 </project>
